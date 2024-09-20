@@ -1,4 +1,4 @@
-### Olá! Eu sou a Kariny Passos! 👋🏻✨
+### Olá! Eu sou a Kariny Passos! 👋🏻✨<br>
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=devkapassos&show_icons=true&theme=tokyonight" alt="devkapassos GitHub stats" style="width: 48%; max-width: 400px;">
