@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Kariny Passos! 👋🏻✨<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkapassos&show_icons=true&theme=tokyonight&card_width=400" alt="devkapassos GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkapassos&layout=compact&theme=tokyonight&card_width=400" alt="devkapassos Most Used Languages">
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devkapassos&show_icons=true&theme=tokyonight" alt="devkapassos GitHub stats" style="width: 48%; max-width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkapassos&layout=compact&theme=tokyonight" alt="devkapassos" style="width: 48%; max-width: 300px;">
 </div>
 
 
