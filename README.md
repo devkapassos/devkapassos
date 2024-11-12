@@ -23,8 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-<img src="https://raw.githubusercontent.com/devkapassos/devkapassos/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/devkapassos/devkapassos/output/snake.svg" alt="Snake animation" />
 </div><br><hr>
 
 [![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariny-passos-38409a210/)
