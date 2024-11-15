@@ -1,4 +1,5 @@
-### Olá! Eu sou a Kariny Passos! 👋🏻✨<br>
+### Hello World! 👩🏻‍💻☕<br>
+# Eu sou Kariny Passos🙋🏻‍♀️✨
 
 <div style="display: flex; justify-content: space-around;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devkapassos&show_icons=true&theme=tokyonight"/>
